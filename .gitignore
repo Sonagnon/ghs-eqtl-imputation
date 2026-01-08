@@ -1,0 +1,17 @@
+# Data & results (not versioned)
+data/
+results/
+
+# System / editors
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# R stuff
+.Rhistory
+.RData
+.Rproj.user/
+
+# Conda / env
+*.conda
